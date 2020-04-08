@@ -1,5 +1,3 @@
-
-## 项目动态图
 ## 项目涉及到技术栈：
 - vue全家桶：Vue、Vue-router、Vue-cli等
 - 组件化：单Vue文件
